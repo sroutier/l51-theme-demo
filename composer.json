@@ -6,7 +6,6 @@
     "type": "project",
     "repositories": [
         {
-            "packagist": false,
             "type": "vcs",
             "url": "https://github.com/sroutier/Theme"
         }
